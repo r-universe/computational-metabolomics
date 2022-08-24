@@ -8,3 +8,8 @@
 	url = https://github.com/computational-metabolomics/mspurity
 	shallow = true
 	registered = true
+[submodule "structToolbox"]
+	path = structToolbox
+	url = https://github.com/computational-metabolomics/structtoolbox
+	shallow = true
+	registered = true
