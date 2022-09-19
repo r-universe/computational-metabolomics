@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "msPurity"
+  },
+  {
+    "package": "structToolbox"
+  }
+]
