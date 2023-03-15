@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "msPurity"]
-	path = msPurity
-	url = https://github.com/computational-metabolomics/mspurity
-	shallow = true
-	registered = true
 [submodule "structToolbox"]
 	path = structToolbox
 	url = https://github.com/computational-metabolomics/structtoolbox
+	shallow = true
+	registered = true
+[submodule "msPurity"]
+	path = msPurity
+	url = https://github.com/computational-metabolomics/mspurity
 	shallow = true
 	registered = true
